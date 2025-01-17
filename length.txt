@@ -1,0 +1,2 @@
+Length=18
+Length in hexa=12
